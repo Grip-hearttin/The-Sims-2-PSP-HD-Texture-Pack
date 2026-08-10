@@ -2,6 +2,7 @@
 
 <p align="center"><img src="./screenshots/comparison1.jpg"></p>
 <p align="center"><img src="./screenshots/comparison2.jpg"></p>
+<p align="center"><img src="./screenshots/comparison3.jpg"></p>
 
 A texture pack for *The Sims 2(PSP)* made for the PPSSPP emulator
 
@@ -15,7 +16,6 @@ Higher resolution textures have been imported from the PC version or remade by h
 <img src="./screenshots/altbuttonlayout.png">
 
 [Download here](https://github.com/Grip-hearttin/The-Sims-2-PSP-HD-Texture-Pack/releases/tag/altbuttons)
-
 
 </div>
 
